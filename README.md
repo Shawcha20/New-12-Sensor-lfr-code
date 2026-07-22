@@ -10,7 +10,7 @@ of three as our fifth line follower — and the first one on STM32.
 <!-- Put your photo at images/robot.jpg (create the folder in the repo root).
      Rename below if you use a different filename or extension. -->
 <p align="center">
-  <img src="lfr.jpg" alt="Line following robot" width="480">
+  <img src="lfr image.jpg" alt="Line following robot" width="480">
 </p>
 
 ---
