@@ -109,19 +109,6 @@ STLink is the reliable option.
 
 ---
 
-## Gallery
-
-<!-- Optional. Add or remove cells as needed; delete this section if unused.
-     Suggested files, all in images/ :
-       sensor_array.jpg  the 12-sensor IR bar underneath
-       oled_menu.jpg     the OLED tuning menu
-       contest.jpg       the team at BITFest
-       run.gif           a short clip of a track run -->
-
-| Sensor array | OLED menu |
-|---|---|
-| <img src="images/sensor_array.jpg" width="340"> | <img src="images/oled_menu.jpg" width="340"> |
-
 <p align="center">
   <img src="images/contest.jpg" alt="BITFest contest" width="480">
 </p>
